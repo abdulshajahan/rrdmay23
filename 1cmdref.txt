@@ -1,0 +1,10 @@
+kubectl Version
+kubectl version --short
+kubectl cluster-info
+
+kubectl get all
+kubectl get nodes
+kubectl get pods
+
+
+kubectl config view
