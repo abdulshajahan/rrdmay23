@@ -3,3 +3,7 @@ sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.micros
 dnf check-update
 dnf install code
 dnf install git
+
+
+  git config --global user.email "akshajahan@gmail.com"
+  git config --global user.name "AbdulShajahan"
